@@ -21,6 +21,18 @@ Write a short introduction to your project: 3-5 sentences about the context of y
 ## Questions & Hypotheses
 What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
 
+When was the worst year for unemployment?
+Total average of year and each year
+How is the unemployment distribute in the main areas of barcelona?
+Which one has the highest rate?
+    the min and max of all their years?
+    how is the worse district distrubute?
+    same for best one
+
+
+extra question: does inmigration has something to do about it?
+    look for the worst and best district in their nationalities
+
 ## Dataset
 What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
 
