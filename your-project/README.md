@@ -1,9 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+Alex Navarro Lecha
 
-*[Your Cohort, Campus & Date]*
+Vladimir Autier
+
+Ironhack Barcelona/Data Analytics
 
 ## Content
 - [Project Description](#project-description)
