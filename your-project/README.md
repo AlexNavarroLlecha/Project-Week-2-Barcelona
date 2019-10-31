@@ -1,7 +1,7 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-Alex Navarro Lecha
+Alex Navarro Llecha
 &
 Vladimir Autier
 
