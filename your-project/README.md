@@ -59,7 +59,7 @@ First we created a Trello board and placed all the tasks we needed to perform in
 Then we asked ourselves which questions we wanted to answer.
 Lastly we divided the work as I explained in the workflow and we tried to help each other as much as possible.
 
-The repository has both our codes that helped us answer the unemplyment data in Barcelona.
+The repository has both our codes that helped us answer the unemplyment data in Barcelona in the your project file.We also have the datasets that we used in the datasets folder.
 
 Trello_link:https://trello.com/b/LfHiBb2j/project-2
 
