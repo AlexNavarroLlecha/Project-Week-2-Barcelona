@@ -19,7 +19,7 @@ Ironhack Barcelona/Data Analytics
 
 ## Project Description
 
-We chose the topic of unemployment in Barcelona. It is one of the main economical topics of our society. We tried to understand how unemployment was spread troughout Barcelona looking at the values in each district/neighborhood.Moreover, we looked over the differences between male and female unemployment over a period of 5 years(2013-2017) and tried to get some interesting information from it.
+We chose the topic of unemployment in Barcelona. It is one of the main economical topics of our society. We tried to understand how unemployment was spread throughout Barcelona looking at the values in each district/neighborhood.Moreover, we looked over the differences between male and female unemployment over a period of 5 years(2013-2017) and tried to get some interesting information from it.
 
 ## Questions & Hypotheses
 
