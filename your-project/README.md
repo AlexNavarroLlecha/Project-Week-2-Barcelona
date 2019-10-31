@@ -2,7 +2,7 @@
 
 # Title of My Project
 Alex Navarro Lecha
-
+&
 Vladimir Autier
 
 Ironhack Barcelona/Data Analytics
