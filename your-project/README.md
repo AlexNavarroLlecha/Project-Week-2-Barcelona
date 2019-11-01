@@ -74,6 +74,7 @@ Lastly we divided the work as I explained in the workflow and we tried to help e
 The repository has both our codes that helped us answer the unemplyment data in Barcelona in the your project file.We also have the datasets that we used in the datasets folder.
 
 Trello_link:https://trello.com/b/LfHiBb2j/project-2
+Presentation_link:https://docs.google.com/presentation/d/147Y2-K6BhsGEauZI8ckedw5UcUccsD4TbslSvszweF0/edit?ts=5dbb1f2b#slide=id.g708e223773_1_72
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
